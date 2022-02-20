@@ -1,0 +1,6 @@
+Hotels TAB=xpath("//div[@class='chHeaderContainer']/nav/ul/li[2]/a
+Login Button=xpATH(//ul[contains(@class,'userSection')]/li[6] )
+From =xpath(//div[@role='combobox']/input)   
+      =//*[@id='root']/div/div[2]/div/div/div[2]/div[1]/div[1]/div[1]/div/div/div/input
+Aurangabad=//div[@id='react-autowhatever-1']/div[1]/ul/li/div/div[1]/p[1]
+EggBoiler Flipkart Xpath=//*[@id='container']/div/div[3]/div[2]/div[1]/div[2]/div[2]/div/div[1]/div/a[2]

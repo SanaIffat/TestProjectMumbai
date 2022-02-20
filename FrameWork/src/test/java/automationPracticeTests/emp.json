@@ -1,0 +1,18 @@
+{
+ "firstName": "Haniya",
+ "secondName": "Hashim",
+ "address": [
+  {
+   "street": "abc",
+   "city": "Hyderabad",
+   "state": "TL"
+		
+  },
+  {
+   "street": "pqr",
+   "city": "Pune",
+   "state": "MQ"
+		
+  }
+ ]
+}
